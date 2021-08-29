@@ -1,1 +1,8 @@
 .DS_Store
+iisstart.htm
+iisstart.png
+k8s_versions/uat.html
+k8s_versions/production.html
+k8s_versions/perf.html
+k8s_versions/integration.html
+k8s_versions/dev.html
